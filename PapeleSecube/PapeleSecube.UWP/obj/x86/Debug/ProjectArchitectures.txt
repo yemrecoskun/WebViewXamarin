@@ -1,0 +1,1 @@
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube.UWP\PapeleSecube.UWP.csproj;x86

@@ -1,0 +1,15 @@
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\bin\Debug\netstandard2.0\PapeleSecube.deps.json
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\bin\Debug\netstandard2.0\PapeleSecube.dll
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\bin\Debug\netstandard2.0\ref\PapeleSecube.dll
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\bin\Debug\netstandard2.0\PapeleSecube.pdb
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.AssemblyInfoInputs.cache
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.AssemblyInfo.cs
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.csproj.CoreCompileInputs.cache
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.dll
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\ref\PapeleSecube.dll
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.pdb
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\ErrorPage.xaml.g.cs
+C:\Users\jrewi\source\repos\PapeleSecube\PapeleSecube\PapeleSecube\obj\Debug\netstandard2.0\PapeleSecube.csprojAssemblyReference.cache
